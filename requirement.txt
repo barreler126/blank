@@ -16,3 +16,4 @@ you-get==0.4.1545
 torchaudio
 torchvision
 pyttsx3
+turtle
