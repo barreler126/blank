@@ -13,6 +13,6 @@ xlwings==0.30.10
 xlwt==1.3.0
 yarl==1.9.2
 you-get==0.4.1545
-torchaudio==2.1.0.dev20230816+cpu
-torchvision==0.16.0.dev20230816+cpu
+torchaudio
+torchvision
 pyttsx3==2.90
