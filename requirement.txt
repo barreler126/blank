@@ -147,7 +147,6 @@ rich==13.4.2
 rsa==4.9
 safetensors==0.3.2
 schedule==1.2.0
-scipy==1.11.1
 search4file==0.1.15
 selenium==4.9.1
 semantic-version==2.10.0
