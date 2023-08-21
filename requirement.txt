@@ -17,3 +17,4 @@ transformers
 torch==2.0.1
 torchaudio==2.1.0.dev20230816+cpu
 torchvision==0.16.0.dev20230816+cpu
+pyttsx3==2.90
