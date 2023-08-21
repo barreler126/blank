@@ -12,4 +12,4 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirement.txt
     - name: Run tests
-      run: pytest
+      run: python pytest.py
